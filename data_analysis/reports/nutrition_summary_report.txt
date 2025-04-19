@@ -1,0 +1,43 @@
+=== SCHOOL NUTRITION HABITS ANALYSIS SUMMARY ===
+
+BASIC STATISTICS:
+Total participants: 81
+Age range: 13 - 70 (Average: 16.6)
+Gender distribution: {'Female': 45, 'Male': 33, 'Prefer not to say or Other': 3}
+
+KEY FINDINGS:
+1. Water consumption: 69.1% of students drink less than 2 liters of water daily
+2. Fruit & vegetable consumption: 91.4% of students eat fruits/vegetables almost daily
+3. Junk food: 74.1% of students consume junk food 15+ days per month
+4. Fast food: 33.3% of students eat fast food 5+ days per month
+5. Sugary beverages: 45.7% of students consume sugary beverages 10+ days per month
+
+DIET TYPES:
+- Vegetarian: 26 students (32.1%)
+- Non-Vegetarian: 3 students (3.7%)
+- Vegan: 1 students (1.2%)
+- No specific diet : 1 students (1.2%)
+- No specific diet: 1 students (1.2%)
+- Vegetarian with chicken seafood and occasional mutton: 1 students (1.2%)
+- Semi-Vegetarian: 1 students (1.2%)
+
+SELF-PERCEPTION VS REALITY:
+Average objective health score (0-5) by self-rated category:
+- Extremely healthy: 3.00
+- Extremely unhealthy: 3.00
+- Healthy: 2.68
+- Unhealthy: 1.47
+
+CORRELATIONS OF INTEREST:
+- Activity level vs Fruit/veg consumption: 0.11
+- Activity level vs Junk food consumption: -0.01
+- Water consumption vs Overall health score: 0.52
+- Self-rated health vs Objective health score: 0.24
+
+RECOMMENDATIONS:
+1. Water consumption: Implement campaigns to increase water consumption among students
+2. Junk food reduction: Educational initiatives about the impact of excessive junk food consumption
+3. Nutrition education: Develop programs to address the gap between perceived and actual dietary healthiness
+4. Physical activity promotion: Encourage more physical activity, which correlates with healthier eating habits
+
+This analysis was performed using the survey data collected from students. For more details, see the visualizations in the 'visualizations' folder.

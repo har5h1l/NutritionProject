@@ -1,0 +1,9 @@
+=== BASIC NUTRITION ANALYSIS SUMMARY ===
+
+Total participants: 81
+Average age: 16.6 years
+
+KEY METRICS:
+- Students eating fruits/vegetables 25+ days per month: 91.4%
+- Students consuming junk food 15+ days per month: 74.1%
+- Students drinking less than 2L water per day: 69.1%
