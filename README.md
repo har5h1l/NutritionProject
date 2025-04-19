@@ -109,8 +109,13 @@ Based on the analysis:
 - seaborn
 - scipy
 
-## Future Work
-- Longitudinal analysis tracking changes over time
-- More detailed dietary assessment
-- Include academic performance correlation analysis
-- Expand sample size and demographic diversity
+## Project Part 2 - Nutrition Recommender System with Deep Learning
+The next and final phase of this project involves developing a Nutrition Recommender System using deep learning techniques. This system will:
+- Analyze individual dietary patterns and preferences
+- Provide personalized nutrition recommendations
+- Leverage neural networks to predict optimal dietary adjustments for improved health outcomes
+
+Key features:
+- Integration of user feedback to refine recommendations
+- Use of advanced models like recurrent neural networks (RNNs) or transformers for time-series dietary data
+- Scalability to accommodate larger datasets and diverse demographics
